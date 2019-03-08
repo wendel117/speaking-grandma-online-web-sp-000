@@ -5,7 +5,7 @@ def speak_to_grandma(input)
     puts "HUH?! SPEAK UP, SONNY!"
   elsif input == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN"
-  else 
+  else
     puts "NO, NOT SINCE 1938!"
   end
 end
