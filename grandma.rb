@@ -1,7 +1,9 @@
 # Write a speak_to_grandma method.
 
 def speak_to_grandma(input)
-  if input == "I LOVE YOU GRANDMA!"
+if input == downcase
+elsif 
+   input == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   else
     return "NO, NOT SINCE 1938!"
