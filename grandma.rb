@@ -2,6 +2,7 @@
 
 def speak_to_grandma(input)
 if input == downcase
+  return "HUH?! SPEAK UP, SONNY!"
 elsif
    input == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
